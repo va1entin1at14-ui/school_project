@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: darkgreen;
+}
+
+div {
+    height:1000px;
+    background-image: linear-gradient(to right, lightblue, blue, cyan)
+}
